@@ -1,0 +1,38 @@
+li {
+  padding: 5px;
+  margin: 5px;
+  background: #1aee07;
+}
+.ul1 {
+  padding: 5px;
+  marigin: 5px;
+  background: brown;
+  float: left;
+}
+.h22{
+  padding: 5px;
+  margin: 5px;
+  background: brown;
+  float:right;
+}
+.ul2 {
+  padding: 5px;
+  margin: 5px;
+  background: brown;
+  float:right;
+}
+.label {
+  font-weight: bold;
+}
+
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+  background: aqua;
+  float: left;
+}
+
+.form-group {
+  margin-bottom: 5px;
+  float: left;
+}
