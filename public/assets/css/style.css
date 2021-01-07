@@ -3,18 +3,21 @@ li {
   margin: 5px;
   background: #1aee07;
 }
-.ul1 {
-  padding: 5px;
-  marigin: 5px;
-  background: brown;
+.module-burger1 {
   float: left;
+  width: 32%;
+  margin-right: 2%;
+  height: 391px;
+  position: relative;
 }
-.h22{
-  padding: 5px;
-  margin: 5px;
-  background: brown;
-  float:right;
+.module-burger2 {
+  float: right;
+  width: 32%;
+  margin-right: 2%;
+  height: 391px;
+  position: relative;
 }
+
 .ul2 {
   padding: 5px;
   margin: 5px;
